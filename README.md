@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 ### Github Stats
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vaishaalik" />
-</p>
-### Top languages
 
+### Top languages
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaalik)
 
 ### Send me a message!
