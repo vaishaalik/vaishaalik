@@ -1,29 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-#### Github Stats
+### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=vaishaalik" />
 
-#### Top languages
-query {
-  user(login: "rjoydip") {
-    repositories(isFork: false, first: 100) {
-      nodes {
-        languages(first: 4) {
-          edges {
-            size
-            node {
-              color
-              name
-            }
-          }
-        }
-      }
-    }
-  }
-}
+### Top languages
 
-#### Send me a message!
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaalik)
+
+### Send me a message!
 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+
 <a href="https://www.linkedin.com/in/vaishaali-kondapalli-08b34819b/">
   <img
     alt="Linkedin"
