@@ -3,8 +3,6 @@
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=vaishaalik" />
 
-### Top languages
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishaalik)
 
 ### Send me a message!
 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
