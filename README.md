@@ -13,4 +13,5 @@ I am open for collaborations, so if you find my work interesting feel free to se
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
+  
 </a>
