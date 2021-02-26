@@ -1,10 +1,5 @@
 ![UseThis](https://user-images.githubusercontent.com/48247094/107473510-d5226680-6b96-11eb-8488-7a1d2093ccc8.PNG)
 
-### Github Stats~
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaishaalik" />
-</p>
-
 ### Send me a message!
 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
 
